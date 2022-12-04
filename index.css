@@ -1,0 +1,49 @@
+.main {
+  border: 2px solid rgb(177, 1, 89);
+  border-radius: 10px;
+  height: auto;
+  width: 620px;
+  margin: auto;
+  margin-top: 100px;
+  padding: 40px;
+  overflow-x: scroll;
+  background: rgb(121, 115, 115, .3);
+}
+
+#heading {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+
+#star {
+  color: rgb(217, 255, 0);
+}
+
+
+.fa {
+  color: rgb(235, 239, 8)
+}
+
+td {
+  padding-top: 10px;
+}
+
+th {
+  padding-right: 20px;
+}
+
+.width {
+  width: 400px;
+}
+
+textarea {
+  width: 650px;
+  height: 50px;
+
+}
+
+.radio {
+  margin-left: 30px;
+}
